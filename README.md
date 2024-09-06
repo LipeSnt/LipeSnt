@@ -20,7 +20,7 @@ I'm a Full Stack Developer with solid experience in various technologies and pro
 ## 🌱 Currently Learning
 
 - TypeScript
-- Nest.js
+- Next.js
 
 ## 📫 How to Reach Me
 
